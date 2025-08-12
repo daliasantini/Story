@@ -1,0 +1,6 @@
+.DS_Store
+secretplot.txt
+chapter4.txt
+
+#Log files
+*.log
